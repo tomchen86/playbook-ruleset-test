@@ -1,3 +1,3 @@
 ## Requirements
 
-### Requirement: LEDGER-1.1 Split sums to 100
+### Requirement: LEDGER-1.1 Split sums to roughly 100
